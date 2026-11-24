@@ -47,5 +47,5 @@ A facies is a body of sediment or sedimentary rock with distinctive characterist
 <img width="575" height="326" alt="image" src="https://github.com/user-attachments/assets/5442f6ac-a54c-4b41-85d5-74f4a61f7a70" />
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/96000893-9fbc-463a-a7af-e0ebe90b760f" />
 A GOOD EXPLANATION:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZSsULiPouTo?si=F6ti_Igxldml9FFB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[video](https://www.youtube.com/watch?v=afWDaaAd5ck)
 
