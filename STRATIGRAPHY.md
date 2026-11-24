@@ -53,5 +53,56 @@ A facies is a body of sediment or sedimentary rock with distinctive characterist
 A GOOD EXPLANATION:
 [video](https://www.youtube.com/watch?v=afWDaaAd5ck)
 
+REGRESSION AND TRANSGRESSION RESULT IN OPPOSING VERTICAL FACIES
 
+## STRATIGRAPHIC CLASSIFICATIONS:
+
+1. LITHOSTRATIGRAPHIC UNITS: ON THE BASIS OF PHYSICAL PROPERTIES
+2. BIOSTRATIGRAPHIC: USING BIOLOGICAL DEPOSITION CONTEXTS SUCH AS FOSSILS
+    (A) FAD: FIRST APPEARANCE DATUM- BEGINNING BOTTOM LAYER
+    (B) LAD: LAST APPEARANCE DATUM- LAYER OF EXTINCTION
+   TYPES OF BIOZONES:
+       (A) INTERVAL ZONE: INTERSECTION OF TWO GROUPS A AND B
+       (B) ABUNDANCE ZONE: ZONE WHERE ONE GROUP IS PRESENT IN HIGH AMOUNTS
+       (C) ASSEMBLAGE ZONE: ZONE WHERE GROUPS A, B AND C ARE PRESENT
+4. UNCONFIRMITY BOUNDED UNITS
+5. MAGNETOSTRATIGRAPHIC UNITS: STRIPES OF OPPOSING POLARISATION IN ROCKS DUE TO PERMANENT MAGNETISATION DUE TO REVERSAL OF MAGNETIC FIELD OF THE EARTH. ITS CHRONS: BRUHNES, MATUYAMA, GAUSS, GILBERT (FROM YOUNGER TO OLDER ORDER)
+6. CHRONOSTRATIGRAPHIC UNITS
+
+## TIME SCALE:
+
+1. GEOCHRONOLOGICAL TIME SCALE: A SYSTEM OF HIERARCHICAL TIME SCALES USED FOR MEASURING GEOLOGICAL TIME
+   GEOCHRONOLOGICAL COLUMN: THE COLUMN OF STRATA CORRESPONDING FOR THAT TIME SCALE
+| TIME SCALE | COLUMN UNIT |
+| ---------- | ---------- |
+| EON | EONOTHEM |
+| ERA | ERATHEM |
+| PERIOD | SYSTEM |
+| AGE | STAGE |
+| PHASE | ZONE |
+
+2. FOUR IMPORTANT EONS:
+   (A) HADEAN
+   (B) ARCHEAN
+   (C) PROTEROZOIC
+   (D) PHANEROZOIC
+   (ORDER IS OLDEST TO YOUNGEST)
+
+3. PHANEROZOIC (OLDEST TO YOUNGEST):
+   (A) PALEOZOIC: Cambrian → Ordovician → Silurian → Devonian → Carboniferous → Permian
+   (B) MESOZOIC: Triassic → Jurassic → Cretaceous
+   (C) CENOZOIC: Paleogene → Neogene → Quaternary
+
+4. EXTRAS:
+Arthur Holmes constructed an early geological time scale by compiling the cumulative thicknesses of sedimentary successions from different parts of the world, particularly through fossils and biological deposits.
+
+Good index fossils should ideally be:
+ Geographically widespread.
+ Easily identifiable.
+ Abundant.
+ Restricted to a relatively short geological time interval.
+
+$$
+\text{Sedimentation rate} = \frac{\text{Thickness of sediment}}{\text{Time represented}}
+$$
 
